@@ -1,0 +1,4 @@
+/home/rohtanza/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/rohtanza/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S "/home/rohtanza/Data/! SEMESTER 4/CS2006 Operating Systems/Assignment 01/CS2006_OperatingSystems_ Assignment01/CS2006_OperatingSystems_ Assignment01_Question01" -B "/home/rohtanza/Data/! SEMESTER 4/CS2006 Operating Systems/Assignment 01/CS2006_OperatingSystems_ Assignment01/CS2006_OperatingSystems_ Assignment01_Question01/cmake-build-debug"
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/rohtanza/Data/! SEMESTER 4/CS2006 Operating Systems/Assignment 01/CS2006_OperatingSystems_ Assignment01/CS2006_OperatingSystems_ Assignment01_Question01/cmake-build-debug

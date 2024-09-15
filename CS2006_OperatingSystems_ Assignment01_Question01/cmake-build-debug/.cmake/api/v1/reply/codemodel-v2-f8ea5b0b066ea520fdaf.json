@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CS2006_OperatingSystems__Assignment01",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "CS2006_OperatingSystems__Assignment01::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-CS2006_OperatingSystems__Assignment01-Debug-096d006f551b312db59f.json",
+					"name" : "CS2006_OperatingSystems__Assignment01",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/rohtanza/Data/! SEMESTER 4/CS2006 Operating Systems/Assignment 01/CS2006_OperatingSystems_ Assignment01/CS2006_OperatingSystems_ Assignment01_Question01/cmake-build-debug",
+		"source" : "/home/rohtanza/Data/! SEMESTER 4/CS2006 Operating Systems/Assignment 01/CS2006_OperatingSystems_ Assignment01/CS2006_OperatingSystems_ Assignment01_Question01"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
