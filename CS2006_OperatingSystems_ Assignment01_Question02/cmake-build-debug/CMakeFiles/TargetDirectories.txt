@@ -1,0 +1,3 @@
+/home/rohtanza/Data/! SEMESTER 4/CS2006 Operating Systems/Assignment 01/CS2006_OperatingSystems_ Assignment01/CS2006_OperatingSystems_ Assignment01_Question02/cmake-build-debug/CMakeFiles/CS2006_OperatingSystems__Assignment01_Question02.dir
+/home/rohtanza/Data/! SEMESTER 4/CS2006 Operating Systems/Assignment 01/CS2006_OperatingSystems_ Assignment01/CS2006_OperatingSystems_ Assignment01_Question02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rohtanza/Data/! SEMESTER 4/CS2006 Operating Systems/Assignment 01/CS2006_OperatingSystems_ Assignment01/CS2006_OperatingSystems_ Assignment01_Question02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

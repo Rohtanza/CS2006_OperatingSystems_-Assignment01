@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(CS2006_OperatingSystems__Assignment01_Question02)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(CS2006_OperatingSystems__Assignment01_Question02 main.cpp)
